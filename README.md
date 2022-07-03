@@ -4,7 +4,7 @@ Week 19 Challenge - Progressive Web Application Budget Tracker
 
 ## Description
 
-An app that allows a user to track their budget. Created using HTML, JavaScript, Node.js, CSS, Express.js, and utilizes service workers, and indexedDB for offline functionality.
+An app that allows a user to track their budget. Created using HTML, JavaScript, Node.js, CSS, Express.js, and utilizes service workers, and indexedDB for offline functionality. Starter code was provided for this project, and the PWA/offline-functionality was added.
 
 ## Table of Contents
 * [Installation](#installation)
