@@ -45,7 +45,7 @@
     "short_name": "Budget",
     "display": "standalone",
     "start_url": "../index.html",
-    "description": "An app that allows you to track withdrawals and deposits with or without a data/internet connection so that account balance is accurate when traveling.",
+    "description": "An app that allows you to track withdrawals and deposits, with or without a data/internet connection so that account balance is accurate when travelling.",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
   }

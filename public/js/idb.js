@@ -1,4 +1,4 @@
-// indexedDB file - modified module 18 code
+// indexedDB file - MODIFIED MODULE 18 CODE
 
 // db connection variable
 let db;

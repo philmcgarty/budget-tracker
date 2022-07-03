@@ -1,6 +1,7 @@
 const CACHE_NAME = 'Budget-Tracker';
 const DATA_CACHE_NAME = 'data-cache-v1';
 
+// files to cache offline
 const FILES_TO_CACHE = [
     "./index.html",
     "./manifest.json",
@@ -12,7 +13,7 @@ const FILES_TO_CACHE = [
 
 // below event listener code copied from module 19 activities
 
-// install service worker
+// Install the service worker
 self.addEventListener('install', function(evt){
     evt.waitUntil(
         caches.open(CACHE_NAME).then(cache => {
