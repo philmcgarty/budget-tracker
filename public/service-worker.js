@@ -6,6 +6,7 @@ const FILES_TO_CACHE = [
     "./manifest.json",
     "./css/styles.css",
     "./js/index.js",
+    "./js/idb.js",
     "./icons/icon-192x192.png"
 ];
 
